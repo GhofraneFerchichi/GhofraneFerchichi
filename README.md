@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghofraneferchichi" alt="ghofraneferchichi" /></a> </p>
 
-- 🔭 I’m currently working on my graduate project **Micro-Backend**
+- 🔭 I’m currently deepening my Kubernetes expertise while preparing for the Certified Kubernetes Administrator (CKA) certification
 
 - 📫 How to reach me **ghofrane.ferchichi77@gmail.com**
 
